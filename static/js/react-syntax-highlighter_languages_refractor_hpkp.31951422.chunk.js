@@ -1,0 +1,2 @@
+(this["webpackJsonprevolut-generator"]=this["webpackJsonprevolut-generator"]||[]).push([[54],{139:function(e,a,t){"use strict";function r(e){e.languages.hpkp={directive:{pattern:/\b(?:(?:includeSubDomains|preload|strict)(?: |;)|pin-sha256="[a-zA-Z\d+=/]+"|(?:max-age|report-uri)=|report-to )/,alias:"keyword"},safe:{pattern:/\d{7,}/,alias:"selector"},unsafe:{pattern:/\d{1,6}/,alias:"function"}}}e.exports=r,r.displayName="hpkp",r.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_hpkp.31951422.chunk.js.map
